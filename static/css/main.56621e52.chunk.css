@@ -1,0 +1,2 @@
+body{display:flex;justify-content:center;align-items:center;margin-top:100px;background-color:hsla(0,0%,50.2%,.2)}body .main-wrapper{border-radius:55px;text-align:center;background-color:#fff}body .main-wrapper .color-changer{padding:15px;margin:10px}body .main-wrapper .color-changer form .red{color:red}body .main-wrapper .color-changer form .green{color:green}body .main-wrapper .color-changer form .blue{color:#00f}body .main-wrapper .color-result{border-radius:50px 50px 0 0;width:100%;height:60px}
+/*# sourceMappingURL=main.56621e52.chunk.css.map */
